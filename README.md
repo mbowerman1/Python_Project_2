@@ -1,6 +1,6 @@
 # Analyzing the Spread and Prevalence of COVID-19 Across U.S. Counties
 
-__We standardized the data to shade our choropleth map so that we could better compare the toll on different counties with each other, but what does the choropleth map look like if we used the raw case data instead of the standardized data? Why would we not want to use the raw data in this visualization?
+__We standardized the data to shade our choropleth map so that we could better compare the toll on different counties with each other, but what does the choropleth map look like if we used the raw case data instead of the standardized data? Why would we not want to use the raw data in this visualization?__
 
 __How is this animated data visualization helpful for county and state leadership or business owners in the US? What other data might we want to incorporate into an animated choropleth map to better understand the toll of the novel coronavirus in the United States?__
 
