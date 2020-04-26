@@ -4,6 +4,7 @@
 How can we visualize and better understand the overall toll of the COVID-19 pandemic on US counties or county equivalents?
 
 ## Data Visualizations: Spread of Coronavirus January 21 - April 25 on Choropleth Maps
+
 ### Confired Cases Per Capita Data
 ![](Images/covid19_cases_us_county.gif)
 
@@ -15,6 +16,8 @@ As of April 25th:
 
 As of April 25th:
 ![](Images/covid19_cases_us_county_rawdata.PNG)
+
+Note: The titles of all the graphs should read through April 25th, not 24th. The original 
 
 ## Data Insights
 Comparing the choropleth maps made using the number of confirmed cases per county versus confirmed cases per capita per county demonstrates that using the raw data obscures the prevalence of the pandemic in the US. This is because the raw data doesn't account for the population of each county and thereby the relative density of confirmed cases in each county.
