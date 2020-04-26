@@ -11,9 +11,9 @@ As of April 25th:
 ![](Images/covid19_cases_us_county.PNG)
 
 ### Raw Confirmed Cases Data
-Gif of raw data choropleth map: ![](Images/covid19_cases_us_county_rawdata_gif.gif)
+![](Images/covid19_cases_us_county_rawdata_gif.gif)
 
-As of April 25th
+As of April 25th:
 ![](Images/covid19_cases_us_county_rawdata.PNG)
 
 ## Data Insights
