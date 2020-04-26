@@ -5,7 +5,7 @@ How can we visualize and better understand the overall toll of the COVID-19 pand
 
 ## Data Visualizations: Spread of Coronavirus January 21 - April 25 on Choropleth Maps
 
-### Confired Cases Per Capita Data
+### Confirmed Cases Per Capita Data
 ![](Images/covid19_cases_us_county.gif)
 
 As of April 25th:
