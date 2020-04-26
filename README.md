@@ -12,6 +12,7 @@ Images of final results (if necessary): ![](Images/)
 
 ## Data Insights
 __We standardized the data to shade our choropleth map so that we could better compare the toll on different counties with each other, but what does the choropleth map look like if we used the raw case data instead of the standardized data? Why would we not want to use the raw data in this visualization?__
+Using just raw data doesn't account for the population of each county and thereby the relative density of confirmed cases in each county. As can been seen when comparing the choropleth maps made using the number of confirmed cases per county versus confirmed cases per capita per county, using the raw data obscures the prevalence of the pandemic in the US. Looking at cases per capita also helps highlight which counties are experiencing more overloading their health systems.
 
 __How is this animated data visualization helpful for county and state leadership or business owners in the US? What other data might we want to incorporate into an animated choropleth map to better understand the toll of the novel coronavirus in the United States?__
 
