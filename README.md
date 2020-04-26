@@ -4,6 +4,8 @@
 How can we visualize and better understand the overall toll of the COVID-19 pandemic on US counties or county equivalents?
 
 ## Data Visualizations: Spread of Coronavirus January 21 - April 25 on Choropleth Maps
+[Link to jupyterlab file](http://localhost:8888/lab/tree/Desktop/Business%20Analytics/Python%20Project%20#2/Bowerman_Python2.ipynb). 
+Bubble map wasn't showing up in jupyterlab, but has been uploaded to "Images" folder in this repository along with density heatmap.
 
 ### Confirmed Cases Per Capita Data
 ![](Images/covid19_cases_us_county.gif)
