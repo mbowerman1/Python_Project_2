@@ -15,7 +15,7 @@ As of April 25th:
 ![](Images/covid19_cases_us_county.PNG)
 
 ### Raw Confirmed Cases Data
-![](Images/covid19_cases_us_county_rawdata_gif.gif)
+![](Images/covid19_cases_us_county_rawdata.gif)
 
 As of April 25th:
 ![](Images/covid19_cases_us_county_rawdata.PNG)
